@@ -22,7 +22,7 @@ To run this project, follow these steps:
 1. Download and install [Tableau](https://www.tableau.com/).
 2. Clone the repository:
     ```bash
-   git clone https://github.com/your-username/bike-sales-tableau.git
+   git clone https://github.com/jashwanth188/Bike-Sales.git
    ```
 3. Open BikeSales.twbx in Tableau to view the dashboards and visualizations
 
